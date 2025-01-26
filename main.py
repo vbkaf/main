@@ -8,7 +8,7 @@ from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
 from aiogram.types import Message
 
-TOKEN = '7587555755:AAEU4ryiwPqOIDn-vEwdIBbUUWjbCSuNREg'
+TOKEN = 'Token'
 
 # All handlers should be attached to the Router (or Dispatcher)
 
